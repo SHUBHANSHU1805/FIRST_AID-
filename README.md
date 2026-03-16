@@ -1,5 +1,4 @@
-FirstAid+ — MVP for Hackathon
-
+FirstAid+ — MVP 
 FirstAid+ is an AI-powered mobile emergency response app that provides instant guidance, alerts contacts, and helps users respond to medical emergencies quickly.
 
 Goal:
